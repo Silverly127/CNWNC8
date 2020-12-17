@@ -1,0 +1,61 @@
+a{
+	color: firebrick;
+}
+a:hover{
+	text-decoration: none;
+	color: black;
+}
+@media(max-width: 768px)
+{
+#usercontent
+	{
+		margin-left: 100px !important;
+	}
+#usercontent h4
+	{
+		font-size: 15px;
+	}
+#usercontent p
+	{
+		display: none;
+	}
+#billcontent
+	{
+		margin-left: 100px !important;
+	}
+#billcontent h4
+	{
+		font-size: 15px;
+	}
+#billcontent p
+	{
+		display: none;
+	}
+#contentsp
+	{
+		margin-left: 100px !important;
+	}
+#contentsp h4
+	{
+		font-size: 12px !important;
+	}
+.container-fluid
+	{
+		height: 150px;
+	}
+.btn-group
+	{
+		word-wrap: break-word;
+	}	
+}
+
+
+
+
+
+
+
+
+
+
+
